@@ -57,6 +57,11 @@ body {
     background-color: rgba(255,255,255,0.8);
 }
 
+.highlighttext {
+    color: #fff;
+    background-color: rgba(0,0,0,0.7);
+}
+
 /* Custom Horizontal Rule */
 
 hr.small {
@@ -68,25 +73,25 @@ hr.small {
     height: 300px;
 }
 
-.meetup {
+.highlightphoto {
     color: white;
     display: table;
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/GE_Building_-_Rockefeller_Plaza.jpg) no-repeat center center scroll;
+    background: url(../img/photo-1429962714451-bb934ecdc4ec.jpeg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 }
 
-.meetup h2 {
+.highlightphoto h2 {
     margin: 0;
     padding: 0;
     font-size: 3em;
     font-weight: bold;
-    background-color: rgba(51,122,183,0.4);
+    background-color: rgba(0,0,0,0.4);
 }
 
 .social {
