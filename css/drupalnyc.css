@@ -73,6 +73,10 @@ hr.small {
     height: 300px;
 }
 
+.bg-secondary {
+  background-color: rgb(66, 133, 244);
+}
+
 .highlightphoto {
     color: white;
     display: table;
