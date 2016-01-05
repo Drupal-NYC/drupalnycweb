@@ -115,6 +115,24 @@ hr.small {
     -o-background-size: cover;
 }
 
+.event {
+    padding: 50px 0;
+    display: table;
+    width: 100%;
+    height: 200px;
+    color: #000;
+    background: url(../img/photo-1429962714451-bb934ecdc4ec.jpeg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.event h2 {
+  color: white;
+  background-color: rgba(0,0,0,0.4);
+}
+
 .discuss {
     padding: 50px 0;
 }
