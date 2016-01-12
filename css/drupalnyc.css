@@ -77,6 +77,10 @@ hr.small {
   background-color: rgb(66, 133, 244);
 }
 
+.bg-neutral {
+  background-color: rgba(239,239,239,1.00);
+}
+
 .highlightphoto {
     color: white;
     display: table;
