@@ -1,0 +1,10 @@
+# OSX
+.DS_Store
+*/.DS_Store
+
+# IntelliJ / PhpStorm
+.idea
+*/.phpstorm.meta.php
+
+# Sublime
+.phpintel
